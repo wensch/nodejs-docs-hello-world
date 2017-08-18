@@ -8,4 +8,4 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 Fork created to test Continuos Delivery
 
-Version v0.0.1
+Version v0.0.3beta
